@@ -40,3 +40,6 @@
 [submodule "vim-files/vim/bundle/vim-lexical"]
     path = vim-files/vim/bundle/vim-lexical
     url = https://github.com/reedes/vim-lexical
+[submodule "vim-files/vim/bundle/vim-fugitive"]
+    path = "vim-files/vim/bundle/vim-fugitive"
+    url = https://github.com/tpope/vim-fugitive.git
