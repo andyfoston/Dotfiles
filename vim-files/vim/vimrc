@@ -287,6 +287,8 @@ imap <leader>l <ESC>:TagbarToggle<cr>i
 " Snipmate using bellow VIM's default keys, just unmap it.
 " autocmd VimEnter * unmap! <C-i>
 
+"Ctrl-P
+set runtimepath^=~/.vim/bundle/ctrlp.vim
 
 " =========== END Plugin Settings =========="
 "
